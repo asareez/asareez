@@ -21,5 +21,6 @@ I'm a Computer Science student who’s passionate about turning ideas into real,
   [LinkedIn](https://www.linkedin.com/in/fareezfarid) | [Email](mfaridhaskali01@qub.ac.uk)
 
 - ⚡ Fun fact:  
-  I love coding, playing the guitar, running long distances, and romanticizing the idea of growth — in code, body, and soul 🌱💖  
-
+  I love coding, playing the guitar, running long distances, and romanticizing the idea of growth — in code, body, and soul 🌱💖
+  
+📌 *More projects coming soon — currently working on something exciting!* 💻🌱
